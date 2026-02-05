@@ -15,10 +15,10 @@ const LOGIN_URL = `${TARGET_HOST}/NumberPanel/login`;
 const SIGNIN_URL = `${TARGET_HOST}/NumberPanel/signin`;
 const NUMBERS2_URL = `${TARGET_HOST}/NumberPanel/agent/res/data_smsnumbers2.php`;
 const SMS_API_URL =
-  'http://147.135.212.197/crapi/st/viewstats?token=RVVUSkVBUzRHaothilCXX2KEa4FViFFBa5CVQWaYmGJbjVdaX2x4Vg==&dt1=2026-02-04 05:18:03&dt2=2126-05-09 05:18:16&records=10';
+  'http://147.135.212.197/crapi/st/viewstats?token=RlRSQkhBUzRUc5WGZpiDYmhqdYldjHBqRYeFg2qWdGhch1BqXpOJWQ==&dt1=2026-02-04 05:18:03&dt2=2126-05-09 05:18:16&records=10';
 
-const USERNAME = process.env.PANEL_USER || 'Kami526';
-const PASSWORD = process.env.PANEL_PASS || 'Kamran52';
+const USERNAME = process.env.PANEL_USER || 'queenshaikhZ027';
+const PASSWORD = process.env.PANEL_PASS || 'alizashaikh07';
 
 /* ================= CLIENT ================= */
 
